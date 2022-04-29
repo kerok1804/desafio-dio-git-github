@@ -1,0 +1,5 @@
+É muito fácil criar um repositório no Git/GitHub.
+
+Link abaixo:
+
+https://docs.github.com/pt/get-started/quickstart/create-a-repo
